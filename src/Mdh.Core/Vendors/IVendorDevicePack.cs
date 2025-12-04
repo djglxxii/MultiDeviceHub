@@ -1,3 +1,5 @@
+using Mdh.Core.Engine;
+
 namespace Mdh.Core.Vendors;
 
 public interface IVendorDevicePack
